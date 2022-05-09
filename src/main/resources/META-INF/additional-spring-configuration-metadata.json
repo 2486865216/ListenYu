@@ -1,8 +1,0 @@
-{
-  "properties": [
-    {
-      "name": "pageHleper",
-      "type": "java.lang.String",
-      "description": "Description for pageHleper."
-  }
-] }
