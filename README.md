@@ -1,6 +1,6 @@
 # 音乐播放器
 
-![image-20220510124806925](C:/Users/YQ/AppData/Roaming/Typora/typora-user-images/image-20220510124806925.png)![image-20220510124827090](C:/Users/YQ/AppData/Roaming/Typora/typora-user-images/image-20220510124827090.png)![image-20220510124838421](C:/Users/YQ/AppData/Roaming/Typora/typora-user-images/image-20220510124838421.png)
+![image-20220510124806925](https://zhangyuyetypora.oss-cn-guangzhou.aliyuncs.com/typora-user-images/image-20220510124806925.png)![image-20220510124827090](https://zhangyuyetypora.oss-cn-guangzhou.aliyuncs.com/typora-user-images/image-20220510124827090.png)![image-20220510124838421](https://zhangyuyetypora.oss-cn-guangzhou.aliyuncs.com/typora-user-images/image-20220510124838421.png)
 
 ## 一个简易的音乐播放器，目前功能十分单一，后续可能会添加许多新功能，实在抱歉。。。。
 
