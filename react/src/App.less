@@ -1,0 +1,31 @@
+body{
+  overflow: hidden;
+  background-color: #f1f0f0;
+}
+.sider{
+  height: 100vh;
+  overflow-y: auto;
+}
+.sider::-webkit-scrollbar{
+  display: none;
+}
+#layout{
+  height: 100vh;
+  overflow-y: auto;
+}
+@head_height: 64px;
+#head{
+  height: @head_height;
+}
+@content-height: calc(100vh - @head_height);
+#content{
+  height: @content-height;
+}
+@musicFooter-height: 70px;
+.musicList{
+  height: calc(@content-height - @musicFooter-height);
+  overflow-y: auto;
+}
+.musicFooter{
+  height: @musicFooter-height;
+}
